@@ -1,7 +1,6 @@
 {
     "name": "taqmaninw/apipack",
-    "description": "bring twiter,google,facebook,paypal,instagram\n\
-              api from eden to laravel",
+    "description": "bring twiter,google,facebook,paypal,instagram api from eden to laravel",
     "authors": [
         {
             "name": "taqmaninw",
